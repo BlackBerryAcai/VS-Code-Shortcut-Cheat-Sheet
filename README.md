@@ -97,6 +97,15 @@ This cheat sheet covers the essential Visual Studio Code shortcuts for both **Wi
 
 ---
 
+##  Additional Shortcut
+
+| No. | Windows Shortcut        | Mac Shortcut             | Description                                         |
+|-----|-------------------------|--------------------------|-----------------------------------------------------|
+| 45  | `Ctrl + / `    | `Cmd + / `        | Comments for code documents                                    |
+| 46  | `Alt + L , Alt + O `    | `Cmd + L , Cmd + O `        | Run the code (live server)                                |
+
+---
+
 ## 📋 How to Use
 
 - Select the shortcut from the table based on your operating system.
