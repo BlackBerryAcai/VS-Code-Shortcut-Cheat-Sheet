@@ -32,15 +32,15 @@ This cheat sheet covers the essential Visual Studio Code shortcuts for both **Wi
 
 ## 📜 Code Manipulation and Editing
 
-| No. | Windows Shortcut        | Mac Shortcut             | Description                                         |
-|-----|-------------------------|--------------------------|-----------------------------------------------------|
+| No. | Windows Shortcut        | Mac Shortcut              | Description                                         |
+|-----|-------------------------|-------------------- ------|-----------------------------------------------------|
 | 13  | `Alt + Up Arrow`        | `Option + Up Arrow`       | Move line up                                        |
 | 14  | `Alt + Down Arrow`      | `Option + Down Arrow`     | Move line down                                      |
 | 15  | `Ctrl + Shift + K`      | `Cmd + Shift + K`         | Delete line                                         |
-| 16  | `Ctrl + Enter`          | `Cmd + Enter`            | Insert a new line below                             |
+| 16  | `Ctrl + Enter`          | `Cmd + Enter`             | Insert a new line below                             |
 | 17  | `Ctrl + Shift + Enter`  | `Cmd + Shift + Enter`     | Insert a new line above                             |
 | 18  | `Ctrl + Shift + L`      | `Cmd + Shift + L`         | Select all occurrences of current selection         |
-| 19  | `Ctrl + /`              | `Cmd + /`                | Toggle line comment                                 |
+| 19  | `Ctrl + /`              | `Cmd + /`                 | Toggle line comment                                 |
 | 20  | `Ctrl + Shift + /`      | `Cmd + Option + /`        | Toggle block comment                                |
 
 ---
@@ -59,8 +59,8 @@ This cheat sheet covers the essential Visual Studio Code shortcuts for both **Wi
 
 ## 🛠️ Formatting and Terminal
 
-| No. | Windows Shortcut        | Mac Shortcut             | Description                                         |
-|-----|-------------------------|--------------------------|-----------------------------------------------------|
+| No. | Windows Shortcut        | Mac Shortcut              | Description                                         |
+|-----|-------------------------|-------------------------- |-----------------------------------------------------|
 | 26  | `Alt + Shift + F`       | `Option + Shift + F`      | Format document                                     |
 | 27  | `Ctrl + Shift + M`      | `Cmd + Shift + M`         | Show problems panel                                 |
 | 28  | `Ctrl + \``             | `Cmd + \``                | Toggle integrated terminal                          |
@@ -69,8 +69,8 @@ This cheat sheet covers the essential Visual Studio Code shortcuts for both **Wi
 
 ## 🔀 File Navigation and Window Management
 
-| No. | Windows Shortcut        | Mac Shortcut             | Description                                         |
-|-----|-------------------------|--------------------------|-----------------------------------------------------|
+| No. | Windows Shortcut        | Mac Shortcut              | Description                                         |
+|-----|-------------------------|--------------------- -----|-----------------------------------------------------|
 | 29  | `Ctrl + Shift + Tab`    | `Cmd + Shift + Tab`       | Navigate backward through open files                |
 | 30  | `Ctrl + Tab`            | `Cmd + Tab`               | Navigate forward through open files                 |
 | 31  | `Ctrl + K, Ctrl + 0`    | `Cmd + K, Cmd + 0`        | Collapse all code regions                           |
@@ -80,14 +80,14 @@ This cheat sheet covers the essential Visual Studio Code shortcuts for both **Wi
 | 35  | `Ctrl + Shift + N`      | `Cmd + Shift + N`         | Open a new window                                   |
 | 36  | `Ctrl + K, Z`           | `Cmd + K, Z`              | Enter Zen mode (distraction-free mode)              |
 | 37  | `Ctrl + K, Ctrl + W`    | `Cmd + K, Cmd + W`        | Close all editors                                   |
-| 38  | `Ctrl + W`              | `Cmd + W`                | Close the current editor                            |
+| 38  | `Ctrl + W`              | `Cmd + W`                 | Close the current editor                            |
 
 ---
 
 ## 🛠️ Debugging
 
-| No. | Windows Shortcut        | Mac Shortcut             | Description                                         |
-|-----|-------------------------|--------------------------|-----------------------------------------------------|
+| No. | Windows Shortcut        | Mac Shortcut              | Description                                         |
+|-----|-------------------------|-------------------- ------|-----------------------------------------------------|
 | 39  | `Ctrl + K, Ctrl + F`    | `Cmd + K, Cmd + F`        | Format selection                                    |
 | 40  | `Ctrl + Shift + U`      | `Cmd + Shift + U`         | Show output panel                                   |
 | 41  | `Ctrl + F2`             | `Cmd + F2`                | Select all occurrences of word                      |
